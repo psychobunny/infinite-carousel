@@ -1,0 +1,14 @@
+.container {
+	width: 650px;
+	height: 120px;
+	overflow-y: hidden;
+}
+
+.container img {
+	transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	margin: 0;
+	padding: 0;
+}
